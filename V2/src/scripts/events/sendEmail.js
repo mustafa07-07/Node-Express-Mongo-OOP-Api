@@ -9,7 +9,7 @@ module.exports=()=>{
             secure: false, // true for 465, false for other ports
             auth: {
               user: process.env.EMAIL_USER, 
-              pass: process.env.EMAIL_PASSWORD, 
+              pass: 'ismwrqvarbyhbiuk', 
             }
           });
           let info =  transporter2.sendMail({
