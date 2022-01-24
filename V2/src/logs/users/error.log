@@ -1,0 +1,39 @@
+{"level":"error","message":"\"name\" length must be at least 5 characters long","service":"user-service"}
+{"level":"error","message":"\"name\" length must be at least 3 characters long","service":"user-service"}
+{"level":"error","message":"\"username\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"email\" is required","service":"user-service"}
+{"level":"error","message":"\"email\" is required","service":"user-service"}
+{"level":"error","message":"\"email\" must be a valid email","service":"user-service"}
+{"level":"error","message":"\"name\" is required","service":"user-service"}
+{"level":"error","message":"\"username\" is required","service":"user-service"}
+{"level":"error","message":"\"name\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" length must be at least 6 characters long","service":"user-service"}
+{"level":"error","message":"\"name\" is not allowed","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"username\" is required","service":"user-service"}
+{"level":"error","message":"\"name\" is required","service":"user-service"}
+{"level":"error","message":"\"name\" is required","service":"user-service"}
+{"level":"error","message":"\"note\" is required","service":"user-service"}
+{"level":"error","message":"\"email\" is required","service":"user-service"}
+{"level":"error","message":"\"email\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is not allowed","service":"user-service"}
+{"level":"error","message":"\"password\" is not allowed","service":"user-service"}
+{"level":"error","message":"\"password\" is not allowed","service":"user-service"}
+{"level":"error","message":"\"note\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"name\" is required","service":"user-service"}
+{"level":"error","message":"\"username\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"email\" is required","service":"user-service"}
+{"level":"error","message":"\"email\" is required","service":"user-service"}
+{"level":"error","message":"\"note\" is required","service":"user-service"}
+{"level":"error","message":"\"note\" is required","service":"user-service"}

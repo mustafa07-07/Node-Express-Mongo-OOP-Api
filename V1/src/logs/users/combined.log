@@ -1,0 +1,68 @@
+{"level":"info","message":{"_id":"61be1c32f503c92c6277f535","createdAt":"2021-12-18T17:36:50.543Z","name":"Mustafa","updatedAt":"2021-12-18T17:36:50.543Z"},"service":"user-service"}
+{"level":"error","message":"\"name\" length must be at least 5 characters long","service":"user-service"}
+{"level":"error","message":"\"name\" length must be at least 3 characters long","service":"user-service"}
+{"level":"error","message":"\"username\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"email\" is required","service":"user-service"}
+{"level":"info","message":{"_id":"61be28648d8190ba2017ee3a","createdAt":"2021-12-18T18:28:52.233Z","email":"mustafa@ff.cc","name":"mustafa","password":"123123123","updatedAt":"2021-12-18T18:28:52.233Z","username":"mustafa9507"},"service":"user-service"}
+{"level":"error","message":"\"email\" is required","service":"user-service"}
+{"level":"info","message":{"_id":"61c07b55a07669cd9b10edbe","createdAt":"2021-12-20T12:47:17.013Z","email":"mustafa@ff.cc","name":"mustafa","password":"123123123","updatedAt":"2021-12-20T12:47:17.013Z","username":"mustafa9507"},"service":"user-service"}
+{"level":"info","message":{"_id":"61c07bbe0d33979d08b84d51","createdAt":"2021-12-20T12:49:02.320Z","email":"mustafa@ff.cc","name":"mustafa","password":"818508938ab1ed8ac152eaa9d0bf9ef936086fd928b57d65e5df206106075f03","updatedAt":"2021-12-20T12:49:02.320Z","username":"mustafa9507"},"service":"user-service"}
+{"level":"info","message":{"_id":"61c07bc60d33979d08b84d53","createdAt":"2021-12-20T12:49:10.445Z","email":"mustafa@ff.cc","name":"mustafa","password":"818508938ab1ed8ac152eaa9d0bf9ef936086fd928b57d65e5df206106075f03","updatedAt":"2021-12-20T12:49:10.445Z","username":"mustafa9507"},"service":"user-service"}
+{"level":"error","message":"\"email\" must be a valid email","service":"user-service"}
+{"level":"error","message":"\"name\" is required","service":"user-service"}
+{"level":"error","message":"\"username\" is required","service":"user-service"}
+{"level":"info","message":{"_id":"61c0839887a4ca48932fdd09","createdAt":"2021-12-20T13:22:32.428Z","email":"mustafa@ali.com","name":"Deneme","password":"a8f654e03216c9474005b2a13457c2699fc7ef31943d0fc3211b28fe262d5560","updatedAt":"2021-12-20T13:22:32.428Z","username":"msutafa"},"service":"user-service"}
+{"level":"error","message":"\"name\" is required","service":"user-service"}
+{"level":"info","message":{"_id":"61c085604f6fe968c2422c9d","createdAt":"2021-12-20T13:30:08.773Z","email":"deneme@deneme.com","name":"veli","password":"0522e5452a2606e1d9e7fd25e13d46f397bea69451c7539ef9b25e1d89e1a417","updatedAt":"2021-12-20T13:30:08.773Z","username":"ali"},"service":"user-service"}
+{"level":"error","message":"\"password\" length must be at least 6 characters long","service":"user-service"}
+{"level":"error","message":"\"name\" is not allowed","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"info","message":{"_id":"61c21dc87847650df6975db3","createdAt":"2021-12-21T18:32:40.372Z","email":"deneme@ppp.cc","name":"Mustafa","password":"f007129c42ee3f0fbf31d3e648c0619c879e39426cddc74b7fe60148fee03fc7","updatedAt":"2021-12-21T18:32:40.372Z","username":"mustafa9507"},"service":"user-service"}
+{"level":"info","message":{"_id":"61c21e07e6faa2aaac51d9bd","createdAt":"2021-12-21T18:33:43.248Z","email":"deneme@ppp.cc","name":"Mustafa","password":"f007129c42ee3f0fbf31d3e648c0619c879e39426cddc74b7fe60148fee03fc7","updatedAt":"2021-12-21T18:33:43.248Z","username":"mustafa9507"},"service":"user-service"}
+{"level":"error","message":"\"username\" is required","service":"user-service"}
+{"level":"info","message":{"_id":"61c21e18e6faa2aaac51d9bf","createdAt":"2021-12-21T18:34:00.261Z","email":"deneme@ppp.cc","name":"Mustafa","password":"f007129c42ee3f0fbf31d3e648c0619c879e39426cddc74b7fe60148fee03fc7","updatedAt":"2021-12-21T18:34:00.261Z","username":"mustafa9507"},"service":"user-service"}
+{"level":"info","message":{"_id":"61c229c8988900151fc55334","createdAt":"2021-12-21T19:23:52.808Z","email":"deneme@ppp.cc","name":"Mustafa","password":"f007129c42ee3f0fbf31d3e648c0619c879e39426cddc74b7fe60148fee03fc7","updatedAt":"2021-12-21T19:23:52.808Z","username":"mustafa9507"},"service":"user-service"}
+{"level":"info","message":{"_id":"61c463e73239f47d5ac2e15b","createdAt":"2021-12-23T11:56:23.939Z","email":"deneme@pp.cc","name":"Mustafa","password":"f007129c42ee3f0fbf31d3e648c0619c879e39426cddc74b7fe60148fee03fc7","updatedAt":"2021-12-23T11:56:23.939Z","username":"mustafa9508"},"service":"user-service"}
+{"level":"info","message":{"_id":"61c4644291f76f953a6c8a2f","createdAt":"2021-12-23T11:57:54.622Z","email":"deneme@pp.cc","name":"Mustafa","password":"f007129c42ee3f0fbf31d3e648c0619c879e39426cddc74b7fe60148fee03fc7","updatedAt":"2021-12-23T11:57:54.622Z","username":"mustafa9508"},"service":"user-service"}
+{"level":"info","message":{"_id":"61c46bd0bdccb0eba4d313f7","createdAt":"2021-12-23T12:30:08.292Z","email":"deneme@pp.cc","name":"Mustafa","password":"f007129c42ee3f0fbf31d3e648c0619c879e39426cddc74b7fe60148fee03fc7","updatedAt":"2021-12-23T12:30:08.292Z","username":"mustafa9508"},"service":"user-service"}
+{"level":"info","message":{"_id":"61c4a9984e2992cf5119c78d","createdAt":"2021-12-23T16:53:44.748Z","email":"mustafa@mustafa.com","name":"Mustafa","password":"818508938ab1ed8ac152eaa9d0bf9ef936086fd928b57d65e5df206106075f03","updatedAt":"2021-12-23T16:53:44.748Z","username":"mustafa9507"},"service":"user-service"}
+{"level":"error","message":"\"name\" is required","service":"user-service"}
+{"level":"error","message":"\"name\" is required","service":"user-service"}
+{"level":"error","message":"\"note\" is required","service":"user-service"}
+{"level":"error","message":"\"email\" is required","service":"user-service"}
+{"level":"error","message":"\"email\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is not allowed","service":"user-service"}
+{"level":"error","message":"\"password\" is not allowed","service":"user-service"}
+{"level":"error","message":"\"password\" is not allowed","service":"user-service"}
+{"level":"info","message":{"_id":"61c765da90ffc2456b192c1a","createdAt":"2021-12-25T18:41:30.962Z","email":"mustafa@mustafa.com","name":"Mustafa","password":"818508938ab1ed8ac152eaa9d0bf9ef936086fd928b57d65e5df206106075f03","updatedAt":"2021-12-25T18:41:30.962Z","username":"mustafa9507"},"service":"user-service"}
+{"level":"error","message":"\"note\" is required","service":"user-service"}
+{"level":"info","message":{"_id":"61c76b6c4565021f730fc87e","createdAt":"2021-12-25T19:05:16.427Z","email":"mustafa@mustafa.com","name":"Mustafa","password":"818508938ab1ed8ac152eaa9d0bf9ef936086fd928b57d65e5df206106075f03","updatedAt":"2021-12-25T19:05:16.427Z","username":"mustafa9507"},"service":"user-service"}
+{"level":"info","message":{"_id":"61c771f22aa94af0a41590d8","createdAt":"2021-12-25T19:33:06.753Z","email":"mustafa@mustafa.com","name":"Mustafa","password":"818508938ab1ed8ac152eaa9d0bf9ef936086fd928b57d65e5df206106075f03","updatedAt":"2021-12-25T19:33:06.753Z","username":"mustafa9507"},"service":"user-service"}
+{"level":"info","message":{"_id":"61c7741f021b76d149b5d0e4","createdAt":"2021-12-25T19:42:23.031Z","email":"mustafa@mustafa.com","name":"Mustafa","password":"818508938ab1ed8ac152eaa9d0bf9ef936086fd928b57d65e5df206106075f03","updatedAt":"2021-12-25T19:42:23.031Z","username":"mustafa9507"},"service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"name\" is required","service":"user-service"}
+{"level":"error","message":"\"username\" is required","service":"user-service"}
+{"level":"error","message":"\"password\" is required","service":"user-service"}
+{"level":"error","message":"\"email\" is required","service":"user-service"}
+{"level":"error","message":"\"email\" is required","service":"user-service"}
+{"level":"info","message":{"_id":"61dc3f64b1f87ca876468482","createdAt":"2022-01-10T14:15:00.618Z","email":"mustafaaliyildirim95@gmail.com","name":"Mustafa","password":"d3bf1252439dfcec34a4494b2bb6473e7ce3438f412e5c9cb39b764006f6e5ff","updatedAt":"2022-01-10T14:15:00.618Z","username":"Mustafa9507"},"service":"user-service"}
+{"level":"error","message":"\"note\" is required","service":"user-service"}
+{"level":"info","message":{"_id":"61dd967b463bc7cc75c82070","createdAt":"2022-01-11T14:38:51.864Z","email":"mustafaaliyildirim95@gmail.com","name":"Mustafa","password":"d3bf1252439dfcec34a4494b2bb6473e7ce3438f412e5c9cb39b764006f6e5ff","updatedAt":"2022-01-11T14:38:51.864Z","username":"Mustafa9507"},"service":"user-service"}
+{"level":"info","message":{"_id":"61e31039d89fa3a87a96b64d","createdAt":"2022-01-15T18:19:37.585Z","email":"mustafaaliyildirim9507@gmail.com","name":"Mustafa","password":"d3bf1252439dfcec34a4494b2bb6473e7ce3438f412e5c9cb39b764006f6e5ff","updatedAt":"2022-01-15T18:19:37.585Z","username":"Mustafa9507"},"service":"user-service"}
+{"level":"error","message":"\"note\" is required","service":"user-service"}
+{"level":"info","message":{"_id":"61e6b15249a79539072faf97","createdAt":"2022-01-18T12:23:46.346Z","email":"alanya@gmail.com","name":"Mustafa","password":"f007129c42ee3f0fbf31d3e648c0619c879e39426cddc74b7fe60148fee03fc7","updatedAt":"2022-01-18T12:23:46.346Z","username":"Mustafa9507"},"service":"user-service"}
+{"level":"info","message":{"_id":"61e9a1a1721e3f725781de8e","createdAt":"2022-01-20T17:53:37.488Z","email":"alanya07@gmail.com","name":"Mustafa","password":"f007129c42ee3f0fbf31d3e648c0619c879e39426cddc74b7fe60148fee03fc7","updatedAt":"2022-01-20T17:53:37.488Z","username":"Mustafa9507"},"service":"user-service"}
+{"level":"info","message":{"_id":"61e9a6da485d88c64b135dbd","createdAt":"2022-01-20T18:15:54.411Z","email":"mustafaaliyildirim95@gmail.com","name":"Mustafa","password":"f007129c42ee3f0fbf31d3e648c0619c879e39426cddc74b7fe60148fee03fc7","updatedAt":"2022-01-20T18:15:54.411Z","username":"Mustafa9507"},"service":"user-service"}
+{"level":"info","message":{"_id":"61e9ae9dbc456ca9ad90802b","createdAt":"2022-01-20T18:49:01.310Z","email":"maildenememy@gmail.com","name":"Mustafa","password":"f007129c42ee3f0fbf31d3e648c0619c879e39426cddc74b7fe60148fee03fc7","updatedAt":"2022-01-20T18:49:01.310Z","username":"Mustafa9507"},"service":"user-service"}
+{"level":"error","message":"\"email\" is required","service":"user-service"}
+{"level":"info","message":{"_id":"61e9bbcb412eb015d5450e97","createdAt":"2022-01-20T19:45:15.291Z","email":"maildenememy@gmail.com","name":"Mustafa","password":"f007129c42ee3f0fbf31d3e648c0619c879e39426cddc74b7fe60148fee03fc7","updatedAt":"2022-01-20T19:45:15.291Z","username":"Mustafa9507"},"service":"user-service"}
+{"level":"info","message":{"_id":"61eead173fee032a5a08245d","createdAt":"2022-01-24T13:43:51.644Z","email":"maildenememy@gmail.com","name":"Mustafa","password":"f007129c42ee3f0fbf31d3e648c0619c879e39426cddc74b7fe60148fee03fc7","updatedAt":"2022-01-24T13:43:51.644Z","username":"Mustafa9507"},"service":"user-service"}
