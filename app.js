@@ -9,7 +9,7 @@ const events = require('./V2/src/scripts/events/sendEmail')
 config()
 loaders()
 events()
-const port = process.env.APP_PORT || 3000
+const port = process.env.PORT || 3000
 const { ProjectRoutes, NoteRoutes } = require('./V2/src/routes')
 const app = express()
 app.use(cors({origin: "*", credentials: true}));
