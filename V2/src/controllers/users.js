@@ -28,7 +28,7 @@ class Users {
             .then((user) => {
                 if (!user) {
                     return res
-                        .status(httpStatus.NOT_FOUND)
+                        .status(httpStatus.OK)
                         .json({ message: 'User not found' })
                 }
                 user = {
